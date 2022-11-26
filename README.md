@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am @Sumitcoders coders AKA Sumit
+I am @Sumitcoders AKA Sumit
 
 
 - 🌱 I’m currently learning python
